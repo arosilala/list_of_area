@@ -1,0 +1,72 @@
+[
+  {
+    "id": "11",
+    "name": "INDONESIA",
+    "alt_name": "INDONESIA",
+    "latitude": -0.7893,
+    "longitude": 113.9213
+  },
+  {
+    "id": "12",
+    "name": "SINGAPURA",
+    "alt_name": "SINGAPURA",
+    "latitude": 1.3521
+    "longitude": 103.8198
+  },
+  {
+    "id": "13",
+    "name": "MALAYSIA",
+    "alt_name": "MALAYSIA",
+    "latitude": 4.2105,
+    "longitude": 101.9758
+  },
+  {
+    "id": "14",
+    "name": "THAILAND",
+    "alt_name": "THAILAND",
+    "latitude": 15.8700,
+    "longitude": 100.9925
+  },
+  {
+    "id": "15",
+    "name": "Philippines",
+    "alt_name": "Philippines",
+    "latitude": 12.8797,
+    "longitude": 121.7740
+  },
+  {
+    "id": "16",
+    "name": "VIETNAM",
+    "alt_name": "VIETNAM",
+    "latitude": 14.0583,
+    "longitude": 108.2772
+  },
+  {
+    "id": "17",
+    "name": "BRUNEI DARUSSALAM",
+    "alt_name": "BRUNEI DARUSSALAM",
+    "latitude": 4.5353,
+    "longitude": 114.7277
+  },
+  {
+    "id": "18",
+    "name": "LAOS",
+    "alt_name": "LAOS",
+    "latitude": 19.8563,
+    "longitude": 102.4955
+  },
+  {
+    "id": "19",
+    "name": "KAMBOJA",
+    "alt_name": "KAMBOJA",
+    "latitude": 12.5657,
+    "longitude": 104.9910
+  },
+  {
+    "id": "21",
+    "name": "MYANMAR",
+    "alt_name": "MYANMAR",
+    "latitude": 21.9162,
+    "longitude": 95.9560
+  }
+]
