@@ -8,8 +8,8 @@
   },
   {
     "id": "12",
-    "name": "SINGAPURA",
-    "alt_name": "SINGAPURA",
+    "name": "SINGAPORE",
+    "alt_name": "SINGAPORE",
     "latitude": 1.3521,
     "longitude": 103.8198
   },
@@ -29,15 +29,15 @@
   },
   {
     "id": "15",
-    "name": "Philippines",
-    "alt_name": "Philippines",
+    "name": "PHILIPPINES",
+    "alt_name": "PHILIPPINES",
     "latitude": 12.8797,
     "longitude": 121.7740
   },
   {
     "id": "16",
-    "name": "VIETNAM",
-    "alt_name": "VIETNAM",
+    "name": "VIET NAM",
+    "alt_name": "VIE TNAM",
     "latitude": 14.0583,
     "longitude": 108.2772
   },
@@ -50,15 +50,15 @@
   },
   {
     "id": "18",
-    "name": "LAOS",
-    "alt_name": "LAOS",
+    "name": "LAO PDR",
+    "alt_name": "LAO PDR",
     "latitude": 19.8563,
     "longitude": 102.4955
   },
   {
     "id": "19",
-    "name": "KAMBOJA",
-    "alt_name": "KAMBOJA",
+    "name": "CAMBODIA",
+    "alt_name": "CAMBODIA",
     "latitude": 12.5657,
     "longitude": 104.9910
   },
